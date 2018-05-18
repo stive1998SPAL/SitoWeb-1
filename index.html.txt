@@ -1,4 +1,10 @@
 <html>
-<head> </head>
-<body> Ciao mondo,viva PAdule, Costacciaro regna</body>
+<head>
+<h1> FORZA SPAL </h1>
+</head>
+<body> 
+<h2>Ciao MONDO,viva FERRARA, LA SPAL REGNA</h2>
+<p> La S.P.A.L. 2013, meglio conosciuta come SPAL (acronimo di Società Polisportiva Ars et Labor), è una società calcistica italiana con sede nella città di Ferrara. Nata come circolo religioso-culturale Ars et Labor nel 1907[3], divenne in breve tempo polisportiva, affiliando la propria sezione calcistica alla FIGC nel 1910 come Ferrara Foot-Ball Club.[4][5][6] La squadra assunse la denominazione di Società Polisportiva Ars et Labor nel 1919, allineandosi a quella della polisportiva, resasi indipendente dal circolo nel 1913. Ulteriori pubblicazioni e ricerche storiche d'archivio considerano il 1913 come anno di fondazione[7][8], facendo risalire la nascita della sezione calcistica alla primavera del 1919. Venne ricostituita a seguito di due fallimenti datati 2005 e 2012.
+</p>
+</body>
 </html>
